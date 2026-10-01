@@ -176,7 +176,7 @@ This schedule is subject to change.
 | 4 | Wed, Sep 23, 26 | Distributions of Network Properties & Centralities | Brennan Klein |
 | – | Fri, Sep 25, 26 | | |
 | 5 | Mon, Sep 28, 26 | Scraping Web Data — BeautifulSoup, HTML, Pandas | Brennan Klein |
-| 6 | Wed, Sep 30, 26 | Data Science & SQL | Brennan Klein |
+| 6 | Wed, Sep 30, 26 | Data Science — Pandas & Regressions | Brennan Klein |
 | – | Fri, Oct 2, 26 | | |
 | 7 | Mon, Oct 5, 26 | Clustering & Community Detection 1 — Traditional | Brennan Klein |
 | – | Tue, Oct 6, 26 | **Assignment 1 due** | |
