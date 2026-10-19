@@ -28,8 +28,8 @@ chapters:
     title: "Class 09: Clustering & Community Detection 3 — Statistical Inference with graph-tool"
   - file: notebooks/class_10_link_prediction/class_10_link_prediction
     title: "Class 10: Link Prediction"
-#  - file: notebooks/class_11_visualization/class_11_visualization
-#    title: "Class 11: Visualization — Python"
+  - file: notebooks/class_11_visualization/class_11_visualization
+    title: "Class 11: Visualization — Python"
 #  - file: notebooks/class_12_machine_learning1/class_12_machine_learning1
 #    title: "Class 12: Machine Learning 1 — General"
 #  - file: notebooks/class_13_machine_learning2/class_13_machine_learning2
